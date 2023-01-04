@@ -1,0 +1,1 @@
+console.log("im 1st  dierectory")
